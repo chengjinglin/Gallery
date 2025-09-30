@@ -10,6 +10,6 @@
   "css": "./custom.css",
   "footer": "Copyright©2025 程景林 版权所有",
   "usage-stats": false,
-  "embed-exif": true, // 启用Exif信息显示
-  "exif-fields": ["aperture", "shutterSpeed", "iso", "focalLength"] // 自定义显示的Exif字段
+  "embed-exif": true,
+  "exif-fields": ["aperture"，"shutterSpeed"，"iso"，"focalLength"]
 }
