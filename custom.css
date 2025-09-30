@@ -1,6 +1,1 @@
-/* 修复底部版权信息斜体问题 */
-.footer, .copyright, .site-footer { /* 覆盖常见的footer类名，确保生效 */
-  font-style: normal; /* 关键属性：取消斜体 */
-  font-size: 14px; /* 可选：调整字体大小，按需修改 */
-  color: #333; /* 可选：调整字体颜色，按需修改 */
-}
+/* Your custom styles goes here */
