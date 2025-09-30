@@ -11,5 +11,5 @@
   "footer": "Copyright©2025 程景林 版权所有",
   "usage-stats": false,
   "embed-exif": true,
-  "exif-fields": ["aperture","shutterSpeed","iso"，"focalLength"]
+  "exif-fields": ["aperture","shutterSpeed","iso","focalLength"]
 }
