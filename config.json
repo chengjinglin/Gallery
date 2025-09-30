@@ -9,15 +9,5 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Copyright©2025 程景林 版权所有",
-  "usage-stats": false,
-  "albums": [ // 手动指定分类顺序（可选）
-    {
-      "name": "测试",
-      "path": "测试"
-    },
-    {
-      "name": "自然风光",
-      "path": "自然风光"
-    }
-  ]
+  "usage-stats": false
 }
